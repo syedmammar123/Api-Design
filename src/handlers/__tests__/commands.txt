@@ -1,0 +1,5 @@
+npm i supertest @types/supertest jest @types/jest ts-jest
+
+npx ts-jest config:init
+
+to run :npm test
